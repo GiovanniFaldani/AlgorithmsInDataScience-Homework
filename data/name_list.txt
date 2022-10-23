@@ -4,7 +4,7 @@ Porthos
 Cardinal
 Aramis
 Bonacieux
-Tréville
+Treville
 Felton
 Planchet
 Kitty
@@ -21,12 +21,12 @@ Laporte
 Dessessart
 Rochellais
 Patrick
-Trémouille
-Béthune
+Tremouille
+Bethune
 Meung
 Bernajoux
 Cahusac
-D'Artagnan
+Artagnan
 Mousqueton
 Constance
 Bassompierre

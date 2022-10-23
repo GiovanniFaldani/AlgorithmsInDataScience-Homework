@@ -4,7 +4,7 @@ Renzo
 Lucy
 Agnes
 Azzecca
-Christopher, Ludovico
+Christopher
 Roderick
 Griso
 Gertrude
@@ -27,6 +27,5 @@ Richelieu
 Beppo
 Anselmo
 Gonzalo
-Gaspero
 Carlos
 Margherita
